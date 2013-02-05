@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Zubhium SDK Demonstration</string>
+    <string name="crashreporting">Click me, I cause crash</string>
+    <string name="inappsupport">Feedback us</string>
+    <string name="app_name">ZubhiumSDKSample</string>
+
+</resources>
